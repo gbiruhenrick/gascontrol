@@ -1,4 +1,4 @@
-# GasControl
+# Gas Control
 
 Sistema de gestão de fluidos refrigerantes focado na transição de gases poluentes (R-22) para opções de menor impacto ambiental (R-32).
 
@@ -16,6 +16,6 @@ Certifique-se de ter o Docker e o Docker Compose instalados no seu ambiente Linu
 
 1. Clone o repositório:
    ```bash
-  git clone https://github.com/gbiruhenrick/gascontrol.git
+git clone https://github.com/gbiruhenrick/gascontrol.git
 cd gascontrol
-  
+
