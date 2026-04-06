@@ -1,0 +1,8 @@
+# Arquivos de sistema e editores
+.DS_Store
+.vscode/
+*~
+
+# Docker e Logs
+*.log
+docker-compose.override.yml
