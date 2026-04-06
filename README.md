@@ -15,9 +15,11 @@ Este projeto gerencia um inventário de 50 equipamentos de ar-condicionado. O ob
 Certifique-se de ter o Docker e o Docker Compose instalados no seu ambiente Linux.
 
 1. Clone o repositório:
-   ```bash
+```bash
 git clone https://github.com/gbiruhenrick/gascontrol.git
 cd gascontrol
-´´
+
+Suba o container:
+docker-compose up -d
 
 
