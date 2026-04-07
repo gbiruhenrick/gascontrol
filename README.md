@@ -21,5 +21,6 @@ cd gascontrol
 
 Suba o container:
 docker-compose up -d
+![Dashboard do Sistema](./dashboard.png)
 
 
