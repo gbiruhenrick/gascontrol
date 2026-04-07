@@ -1,5 +1,4 @@
 # Gas Control
-![Dashboard do Sistema](./dashboard.png)
 
 Sistema de gestão de fluidos refrigerantes focado na transição de gases poluentes (R-22) para opções de menor impacto ambiental (R-32).
 
@@ -22,6 +21,9 @@ cd gascontrol
 
 Suba o container:
 docker-compose up -d
+```
+##
+![Dashboard do Sistema](./dashboard.png)
 
 
 
