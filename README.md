@@ -1,5 +1,5 @@
 # Gas Control
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/5cc9e65d-f0d1-4314-8b5b-3ac64c6f0185" />
+![Dashboard do Sistema](./dashboard.png)
 
 Sistema de gestão de fluidos refrigerantes focado na transição de gases poluentes (R-22) para opções de menor impacto ambiental (R-32).
 
